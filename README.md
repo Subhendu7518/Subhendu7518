@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:sargamjain813@gmail.com">
+  <a href="mailto:subhlendu.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/sargam-jain-0067482b5/" target="_blank">
@@ -44,7 +44,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions yoooo 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sargam-jain/sargam-jain/output/github-contribution-grid-snake.svg" />
   
